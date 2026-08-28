@@ -1,26 +1,26 @@
 {
-    "version": "3.1.1",
+    "version": "3.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.1.1/papercrypt_Windows_i386.zip",
+            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.3.0/papercrypt_Windows_i386.zip",
             "bin": [
                 "papercrypt.exe"
             ],
-            "hash": "fd386bd01cbd8594ab14b48c1aea5c4a778375a43303090d0ee1d3d690856ed2"
+            "hash": "95d7f55e651d75ad99344f5a2e367a5a301c07c072aed1e35d1d9b1bd95c61ff"
         },
         "64bit": {
-            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.1.1/papercrypt_Windows_x86_64.zip",
+            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.3.0/papercrypt_Windows_x86_64.zip",
             "bin": [
                 "papercrypt.exe"
             ],
-            "hash": "f6371b811508745cd4de30e2d252e72f4a4dd2d8664f0d4619ff89d2a624bf08"
+            "hash": "c7036b75ba82ca4a101b94290dd72eede0a378a2e5845a8b3776cf1ec7d5a132"
         },
         "arm64": {
-            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.1.1/papercrypt_Windows_arm64.zip",
+            "url": "https://github.com/tmuniversal/papercrypt/releases/download/v3.3.0/papercrypt_Windows_arm64.zip",
             "bin": [
                 "papercrypt.exe"
             ],
-            "hash": "d8999a70dfeb02ce932e9baec62c47f6f9e9506016dac1779d9d1ef01ae432c1"
+            "hash": "3fbd1e2ded9deff8e0a464fdd094bd8130d595cdac8cabaed542de4ad41f05e2"
         }
     },
     "homepage": "https://github.com/TMUniversal/papercrypt",
